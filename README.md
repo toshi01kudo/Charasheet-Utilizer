@@ -1,6 +1,6 @@
 # Youkoya-Charactor-Utilizer
 
-キャラクター保管庫 (https://charasheet.vampire-blood.net/) にて\
+キャラクター保管所 (https://charasheet.vampire-blood.net/) にて\
 ゆうやけこやけのキャラクターデータをココフォリア (https://ccfolia.com) へ直接貼り付ける非公式ツールです。
 
 キャラクター情報を登録後、「ココフォリア駒出力」ボタンを押下すると、クリップボードへコピーされ、
@@ -25,5 +25,5 @@
 * 本ツールの導入は必ず自己責任でお願いします。当方は本ツールにて生じた損害の責任を一切負いません。
 
 ## Links
-* キャラクター保管庫: https://charasheet.vampire-blood.net/
+* キャラクター保管所: https://charasheet.vampire-blood.net/
 * ココフォリア: https://ccfolia.com
