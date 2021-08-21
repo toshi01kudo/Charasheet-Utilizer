@@ -56,7 +56,6 @@
             MEMO += "けもの： (" + Kemono + ") = 走る、感じる、隠れる\\n";
             MEMO += "おとな： (" + Otona + ") = 機械を使う、知識、気配り\\n";
             MEMO += "こども： (" + Kodomo + ") = 遊ぶ、甘える、守ってもらう";
-            console.log(MEMO)
             // URL作成
             let CharaURL = '{"kind":"character","data":{"name":"';
             CharaURL += PC_NAME;
