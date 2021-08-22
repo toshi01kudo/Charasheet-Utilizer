@@ -2,13 +2,13 @@
 // @name         Youkoya Character Utilizer
 // @namespace    Youkoya Character Utilizer
 // @version      1.0
-// @description  Tools to utilize the charactor sheet page of Youkoya.
+// @description  Tools to utilize the character sheet page of Youkoya.
 // @author       Toshihito Kudo
 // @include      https://charasheet.vampire-blood.net/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // ==/UserScript==
 // 0.1 initial release
-// 0.2 Add charactor memo
+// 0.2 Add character memo
 // 0.3 Partially add optional characters
 // 1.0 Add optional characters
 
