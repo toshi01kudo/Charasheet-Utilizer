@@ -1,4 +1,4 @@
-# Youkoya-Charactor-Utilizer
+# Youkoya-Character-Utilizer
 
 キャラクター保管所 (https://charasheet.vampire-blood.net/) にてご利用いただける便利ツールです。使っていただけるとありがたいです。
 
