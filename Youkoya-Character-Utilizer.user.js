@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Youkoya Charactor Utilizer
-// @namespace    Youkoya Charactor Utilizer
+// @name         Youkoya Character Utilizer
+// @namespace    Youkoya Character Utilizer
 // @version      1.0
 // @description  Tools to utilize the charactor sheet page of Youkoya.
 // @author       Toshihito Kudo
